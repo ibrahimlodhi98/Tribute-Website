@@ -76,3 +76,9 @@
     color: #1d1e4c;
     line-height: 25px;
 }
+
+footer{
+    padding: 25px;
+    display: flex;
+    justify-content: flex-end;
+}
